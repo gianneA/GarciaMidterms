@@ -9,7 +9,7 @@ import com.garcia.midterms.model.Contact;
 import com.garcia.midterms.service.GoogleContactService;
 
 @Controller
-@RequestMapping("/add-contacts")
+@RequestMapping("/thymeleaf")
 public class ThymeLeafController {
 
     @Autowired
